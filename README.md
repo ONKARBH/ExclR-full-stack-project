@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ![Screenshot_8](https://github.com/LuisSalas94/Full-Stack-React-Spring-Boot-Student-Management-System/assets/57297709/1a8c8595-ed25-4731-bc93-f248f48aebda)
 
@@ -92,3 +93,6 @@ Give a ⭐️ if you like this project!
 This project is [MIT](./MIT.md) licensed.  
 
 
+=======
+# ExclR-full-stack-project
+>>>>>>> db56f87b5faf757cc1a72c2daed2718e9d2995d1
